@@ -15,8 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Assets\image %281%29.png" />
-    <Resource Include="Assets\image.png" />
     <Resource Include="Assets\userIcon.png" />
   </ItemGroup>
 
