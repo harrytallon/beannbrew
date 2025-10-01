@@ -15,9 +15,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="image (1).png" />
-    <Resource Include="image.png" />
-    <Resource Include="userIcon.png" />
+    <Resource Include="Assets\image %281%29.png" />
+    <Resource Include="Assets\image.png" />
+    <Resource Include="Assets\userIcon.png" />
   </ItemGroup>
 
 </Project>
