@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   sodipodi:docname="food-menu-icon.svg"
+   sodipodi:docname="food-menu.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,13 +25,13 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="0.70710678"
-     inkscape:cx="478.00418"
-     inkscape:cy="555.78593"
-     inkscape:window-width="1718"
-     inkscape:window-height="1353"
-     inkscape:window-x="1706"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:cx="477.29708"
+     inkscape:cy="556.49304"
+     inkscape:window-width="2240"
+     inkscape:window-height="1366"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1"><inkscape:grid
        id="grid1"
        units="px"
@@ -72,7 +72,7 @@
        width="900.00002"
        height="109.99999"
        id="rect4" /></defs><g
-     inkscape:label="Layer 1"
+     inkscape:label="food-menu"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"><path
@@ -80,7 +80,7 @@
        d="m 138.86186,26.521429 h -29.06118 c -43.59175,0 -43.59175,0 -43.59175,39.663835 V 198.39804 c 0,39.66384 0,39.66384 43.59175,39.66384 h 58.12234 c 29.07046,0 28.81074,-6.6e-4 29.06117,-39.66384 0.15294,-24.22344 0,-92.45821 0,-132.212776 0,-39.663835 0,-39.663835 -29.06117,-39.663835 -29.06116,0 -29.06116,0 -29.06116,0"
        id="path1"
        sodipodi:nodetypes="cssssssssc" /><path
-       style="fill:none;stroke:#000000;stroke-width:5.2916666;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:5.2916666;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
        d="m 79.374994,105.83332 c 0,-52.916658 52.916676,-52.916658 52.916676,-52.916658 0,0 52.91666,10e-7 52.91666,52.916658 z"
        id="path2"
        sodipodi:nodetypes="ccc" /><path
@@ -107,7 +107,4 @@
        id="path4-1" /><path
        style="display:inline;fill:none;stroke:#000000;stroke-width:5.2916666;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
        d="M 79.374999,211.66665 H 185.20833"
-       id="path4-2" /></g><g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Handle" /></svg>
+       id="path4-2" /></g></svg>

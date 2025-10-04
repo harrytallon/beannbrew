@@ -26,12 +26,12 @@
      showgrid="true"
      inkscape:zoom="0.5"
      inkscape:cx="669"
-     inkscape:cy="642"
-     inkscape:window-width="1718"
-     inkscape:window-height="1353"
-     inkscape:window-x="1706"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:cy="643"
+     inkscape:window-width="2240"
+     inkscape:window-height="1366"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1"><inkscape:grid
        id="grid1"
        units="px"
@@ -72,7 +72,7 @@
        width="900.00002"
        height="109.99999"
        id="rect4" /></defs><g
-     inkscape:label="Layer 1"
+     inkscape:label="sale-tag"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"><path
@@ -91,7 +91,4 @@
        sodipodi:end="6.1725711"
        sodipodi:open="true"
        sodipodi:arc-type="arc"
-       d="m 72.760144,66.145882 a 6.614583,6.6145825 0 0 1 -6.431689,6.612053 6.614583,6.6145825 0 0 1 -6.787363,-6.246406 6.614583,6.6145825 0 0 1 6.056348,-6.957481 6.614583,6.6145825 0 0 1 7.122279,5.861658" /></g><g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Handle" /></svg>
+       d="m 72.760144,66.145882 a 6.614583,6.6145825 0 0 1 -6.431689,6.612053 6.614583,6.6145825 0 0 1 -6.787363,-6.246406 6.614583,6.6145825 0 0 1 6.056348,-6.957481 6.614583,6.6145825 0 0 1 7.122279,5.861658" /></g></svg>
