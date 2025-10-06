@@ -25,14 +25,14 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.5"
-     inkscape:cx="528"
+     inkscape:cx="527"
      inkscape:cy="713"
      inkscape:window-width="2240"
      inkscape:window-height="1366"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1">
+     inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -58,14 +58,14 @@
        style="fill:#45425a;fill-opacity:1;stroke:#45425a;stroke-width:21.1666;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="path4"
        sodipodi:type="arc"
-       sodipodi:cx="-1.4805437e-09"
-       sodipodi:cy="-264.58334"
+       sodipodi:cx="-10.583313"
+       sodipodi:cy="-275.16666"
        sodipodi:rx="264.58334"
        sodipodi:ry="264.58334"
        sodipodi:start="0"
        sodipodi:end="1.5707796"
        sodipodi:arc-type="slice"
-       d="M 264.58334,-264.58334 A 264.58334,264.58334 0 0 1 0.00442563,-3.7013308e-8 L 0,-264.58334 Z"
+       d="M 254.00003,-275.16666 A 264.58334,264.58334 0 0 1 -10.578887,-10.583313 l -0.0044,-264.583347 z"
        transform="rotate(90)" />
   </g>
 </svg>
