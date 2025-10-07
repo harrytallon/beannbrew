@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.25"
-     inkscape:cx="454"
-     inkscape:cy="414"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1030.9617"
+     inkscape:cy="485.07525"
      inkscape:window-width="2240"
      inkscape:window-height="1366"
      inkscape:window-x="-11"
@@ -136,7 +136,7 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Inside pentagon"
-     style="display:none"><path
+     style="display:inline"><path
        sodipodi:type="star"
        style="fill:none;stroke:#575757;stroke-width:27.7812;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="path25"
@@ -155,7 +155,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Inside hex"
-     style="display:inline"><path
+     style="display:none"><path
        sodipodi:type="star"
        style="display:inline;fill:none;stroke:#575757;stroke-width:26.4583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="path20"
@@ -173,7 +173,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Inside sircle S"
-     style="display:none"><ellipse
+     style="display:inline"><ellipse
        style="display:inline;fill:none;stroke:#575757;stroke-width:26.4583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="path21-9"
        cx="132.29169"
